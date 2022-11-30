@@ -18,9 +18,9 @@ style instead of separate, coordinated lists of strings and numbers.
 The tasks completed are:
 
 1. First, define a `Product` class that includes all the information about a single product.
-    a. A constructor to make objects of this class which have three instance variables: name, price, and quantity in-stock.
-    b. A method to the class that takes an integer count and determines whether that many of the product are in stock.
-    c. Another method that takes a count and returns the total cost of that many of
+  <br>  a. A constructor to make objects of this class which have three instance variables: name, price, and quantity in-stock.
+  <br> b. A method to the class that takes an integer count and determines whether that many of the product are in stock.
+  <br> c. Another method that takes a count and returns the total cost of that many of
         the product.
     d. A method that takes a count and removes that many of the product from the stock.
 2. Able to modify the objects according to the transactions taken place
